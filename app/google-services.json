@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "558256989509",
+    "firebase_url": "https://quizie-2a7ca.firebaseio.com",
+    "project_id": "quizie-2a7ca",
+    "storage_bucket": "quizie-2a7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558256989509:android:cd6a46b951ff2432",
+        "android_client_info": {
+          "package_name": "com.example.a1605265.quizie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpcDo71VZfr70Wh6VGQ_ljXOoPWTc2VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558256989509-da8sn3m3mjq9uo8j2uu6tbhpm42hegtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
